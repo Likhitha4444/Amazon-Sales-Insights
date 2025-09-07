@@ -55,4 +55,4 @@ Strategic Decision-Making: Enables businesses to focus on profitable categories 
 
 7. Screenshots / Demos
 
-Example dashboard view:
+Example dashboard view:https://github.com/Likhitha4444/Amazon-Sales-Insights/blob/main/Amazon%20sales%20power%20bi.pbix
