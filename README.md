@@ -55,6 +55,6 @@ Strategic Decision-Making: Enables businesses to focus on profitable categories 
 
 7. Screenshots / Demos
 
-Example : ![Amazon Sales Insights](https://github.com/Likhitha4444/Amazon-Sales-Insights/blob/main/Amazon%20dashboard.png)
-This is how the dashboard will look: https://github.com/Likhitha4444/Amazon-Sales-Insights/blob/main/Amazon%20dashboard.png
+This is how the dashboard will look like : ![Amazon Sales Insights](https://github.com/Likhitha4444/Amazon-Sales-Insights/blob/main/Amazon%20dashboard.png)
+
 
